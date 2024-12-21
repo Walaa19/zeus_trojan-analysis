@@ -165,6 +165,12 @@ This project demonstrates the detection and analysis of the Zeus Banking Trojan 
 
 ---
 
+## Tutorial
+
+For a detailed walkthrough of the implementation, watch our [YouTube tutorial](#).
+
+---
+
 ## Disclaimer
 
 This project involves working with live malware. **Extreme caution** must be exercised. Ensure all testing is performed in a secure, isolated environment to prevent accidental harm. Follow ethical guidelines and cybersecurity best practices strictly.
