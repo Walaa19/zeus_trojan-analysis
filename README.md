@@ -167,7 +167,7 @@ This project demonstrates the detection and analysis of the Zeus Banking Trojan 
 
 ## Tutorial
 
-For a detailed walkthrough of the implementation, watch our [YouTube tutorial](#).
+For a detailed walkthrough of the implementation, watch our [YouTube tutorial](https://youtu.be/PkLIdSmdRyE).
 
 ---
 
